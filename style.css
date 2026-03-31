@@ -1,10 +1,8 @@
-/* Reset some default browser styles */
 body, h1, p {
     margin: 0;
     padding: 0;
 }
 
-/* Set up body background and font */
 body {
     font-family: Arial, sans-serif;
     background-color: red;
@@ -12,14 +10,12 @@ body {
     text-align: center;
 }
 
-/* Style the header */
 header {
     background-color: royalblue;
     padding: 20px;
     color: white;
 }
 
-/* Style the content section */
 .content {
     margin: 20px;
     padding: 20px;
@@ -28,7 +24,6 @@ header {
     border-radius: 8px;
 }
 
-/* Style the footer */
 footer {
     margin-top: 30px;
     padding: 10px;
